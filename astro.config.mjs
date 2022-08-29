@@ -1,8 +1,8 @@
 import { defineConfig } from 'astro/config';
 
-import brSaucedAngular from "@br-sauced/astro-angular";
+import analogjsAngular from "@analogjs/astro-angular";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [brSaucedAngular()]
+  integrations: [analogjsAngular()]
 });
