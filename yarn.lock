@@ -15,10 +15,17 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
+"@analogjs/astro-angular@^0.1.0-beta.0":
+  version "0.1.0-beta.0"
+  resolved "https://registry.yarnpkg.com/@analogjs/astro-angular/-/astro-angular-0.1.0-beta.0.tgz#b5ddc60af02e44781c2b6abfa26baf1b44925f15"
+  integrity sha512-UUHsj3WYWixDnaqf9qYyHbnP5bXdu71D8vd9AhpeIrbDqiJ15zEEVTfNL9nyrUOAmdp6Ns7VFI7Jekl5kdKpqA==
+  dependencies:
+    "@analogjs/vite-plugin-angular" latest
+
 "@analogjs/vite-plugin-angular@latest":
-  version "0.2.0-alpha.6"
-  resolved "https://registry.yarnpkg.com/@analogjs/vite-plugin-angular/-/vite-plugin-angular-0.2.0-alpha.6.tgz#6c3c390daecbba277be868db89fa2cf091d8d99e"
-  integrity sha512-Y26pt7r+VoRV95YOgxcIFUaBnrOtJAMLyKSx7MI9kItAdiETAPmrBTXqiTjOC3j1QcbgewfRpVl0ieVZfxAupQ==
+  version "0.2.0-alpha.7"
+  resolved "https://registry.yarnpkg.com/@analogjs/vite-plugin-angular/-/vite-plugin-angular-0.2.0-alpha.7.tgz#ad1d760ad4d8c1af936d7151ebf9eda66fba6af7"
+  integrity sha512-gORxrSIIVTVy/Tjhwcx+fow+IRFamH7R5e/Idj8tfJun9hVirtKwttNIzOr1/DxVl1gGrHv2g2ML31D/S3p4EA==
 
 "@angular-devkit/architect@0.1402.1":
   version "0.1402.1"
@@ -1234,13 +1241,6 @@
     "@babel/helper-validator-identifier" "^7.18.6"
     to-fast-properties "^2.0.0"
 
-"@br-sauced/astro-angular@^0.1.0-beta.0":
-  version "0.1.0-beta.0"
-  resolved "https://registry.yarnpkg.com/@br-sauced/astro-angular/-/astro-angular-0.1.0-beta.0.tgz#c97db37dc4d990b8c8ada3ab9934244836e5133d"
-  integrity sha512-F8kZHGCJvLZEydcO4+PqDXkhBnaoWZdYrefhb5nBe055u/qMD96Pc+zCKj1Sr3uk+JpytEM/Jtm+UgWb2iJ27Q==
-  dependencies:
-    "@analogjs/vite-plugin-angular" latest
-
 "@csstools/postcss-cascade-layers@^1.0.5":
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/@csstools/postcss-cascade-layers/-/postcss-cascade-layers-1.0.5.tgz#f16f2c4396ace855541e1aa693f5f27ec972e6ad"
@@ -2413,9 +2413,9 @@ camelcase@^6.2.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001370, caniuse-lite@^1.0.30001373:
-  version "1.0.30001383"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001383.tgz#aecf317ccd940690725ae3ae4f28293c5fb8050e"
-  integrity sha512-swMpEoTp5vDoGBZsYZX7L7nXHe6dsHxi9o6/LKf/f0LukVtnrxly5GVb/fWdCDTqi/yw6Km6tiJ0pmBacm0gbg==
+  version "1.0.30001384"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001384.tgz#029527c2d781a3cfef13fa63b3a78a6088e35973"
+  integrity sha512-BBWt57kqWbc0GYZXb47wTXpmAgqr5LSibPzNjk/AWMdmJMQhLqOl3c/Kd4OAU/tu4NLfYkMx8Tlq3RVBkOBolQ==
 
 ccount@^2.0.0:
   version "2.0.1"
