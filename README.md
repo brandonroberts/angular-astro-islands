@@ -2,6 +2,8 @@
 
 An example website using Astro and Angular components
 
+Blog post: https://dev.to/brandontroberts/bringing-angular-components-to-astro-islands-52jp
+
 ## Setup
 
 Install the project dependencies:
